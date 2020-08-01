@@ -1,0 +1,13 @@
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login consola\bin\Debug\netcoreapp3.1\login consola.exe
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login consola\bin\Debug\netcoreapp3.1\login consola.deps.json
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login consola\bin\Debug\netcoreapp3.1\login consola.runtimeconfig.json
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login consola\bin\Debug\netcoreapp3.1\login consola.runtimeconfig.dev.json
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login consola\bin\Debug\netcoreapp3.1\login consola.dll
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login consola\bin\Debug\netcoreapp3.1\login consola.pdb
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login consola\obj\Debug\netcoreapp3.1\login consola.csprojAssemblyReference.cache
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login consola\obj\Debug\netcoreapp3.1\login consola.csproj.CoreCompileInputs.cache
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login consola\obj\Debug\netcoreapp3.1\login consola.AssemblyInfoInputs.cache
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login consola\obj\Debug\netcoreapp3.1\login consola.AssemblyInfo.cs
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login consola\obj\Debug\netcoreapp3.1\login consola.dll
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login consola\obj\Debug\netcoreapp3.1\login consola.pdb
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login consola\obj\Debug\netcoreapp3.1\login consola.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login de usuarios con interfaz\bin\Debug\login de usuarios con interfaz.exe.config
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login de usuarios con interfaz\bin\Debug\login de usuarios con interfaz.exe
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login de usuarios con interfaz\bin\Debug\login de usuarios con interfaz.pdb
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login de usuarios con interfaz\obj\Debug\login de usuarios con interfaz.csprojAssemblyReference.cache
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login de usuarios con interfaz\obj\Debug\login_de_usuarios_con_interfaz.Form1.resources
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login de usuarios con interfaz\obj\Debug\login_de_usuarios_con_interfaz.Properties.Resources.resources
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login de usuarios con interfaz\obj\Debug\login de usuarios con interfaz.csproj.GenerateResource.cache
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login de usuarios con interfaz\obj\Debug\login de usuarios con interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login de usuarios con interfaz\obj\Debug\login de usuarios con interfaz.exe
+C:\Users\Joseluis\Documents\C#\Practica final de Programacion\login de usuarios con interfaz\obj\Debug\login de usuarios con interfaz.pdb
